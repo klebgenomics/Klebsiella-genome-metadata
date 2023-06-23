@@ -3,7 +3,7 @@ Klebsiella genome metadata collection schema plus guidance, examples and collect
 
 ## Isolate metadata
 
-Data entries describe individual bacterial isolates.
+Data entries describe individual bacterial isolates. 
 
 
 | Status                               | Variable                     | Guidance                                                                                                                                                                                                                                   | Value format                                                                                                                                                                  |
