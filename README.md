@@ -40,3 +40,11 @@ Data entries describe individual bacterial isolates.
 | REQUIRED                             | Duplicate sequence           | if multiple ASSEMBLIES of the same isolate, and this entry is NOT the primary sequence in the series, indicate the primary isolate (isolate name), otherwise leave blank                                                                   | {text}                                                                                                                                                                        |
 | REQUIRED                             | Collected by                 | Name of persons or institute who collected the sample                                                                                                                                                                                      | {text}                                                                                                                                                                        |
 | REQUIRED                             | Lab contact                  | Contact email address for the person providing metadata. This infomration will be made available only to the KlebNET-GSP team.                                                                                                             | {text}                                                                                                                                                                        |
+
+## Purpose of sampling
+
+Data entries describe the purpose of sampling and the sampling strategy for the collection from which the isolate is derived. 
+
+### Definitions
+
+### Examples
