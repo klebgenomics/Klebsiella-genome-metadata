@@ -23,7 +23,7 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 
 ## Data submission
 
-The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data. Once completed email or share a copy to XXXXX. 
+The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data. Once completed email or share your copy to XXXXX. 
 
 
 ## Isolate metadata fields
