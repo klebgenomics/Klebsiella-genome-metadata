@@ -10,7 +10,7 @@ The scheme includes two types of data fields:
   
 **2. Purpose of sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections and to make descisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
 
-The submission template is available here. Detailed instructions and guidance for data submssion can be found below. 
+The submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Detailed instructions and guidance for data submssion can be found below. 
 
 ## Contents
 [1. Data submission](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission)  
@@ -25,7 +25,7 @@ The submission template is available here. Detailed instructions and guidance fo
 
 TBC. 
 
-The data submission template is available here. Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data.  
+The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data.  
 
 
 ## Isolate metadata fields
