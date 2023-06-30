@@ -105,6 +105,50 @@ Samples collected for **specific research** purposes (excluding outbreak investi
 
 ### Examples
 
+Below we describe various hypothetical study designs and show how the **purpose of sampling** fields would be populated for each.
+
+#### Neonatal sepsis study
+_K. pneumoniae_ were isolated from the blood of neonates via routine diagnostic procedures. All isolates collected between 1 Jan 2019 and 31 Dec 2020 were stocked and subjected to whole genome sequencing.  
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/neonatal_sepsis_study_example.png" alt="Neonatal sepsis study flow diagram" width="70%">
+</p>
+
+#### Ceftriaxone-resistant infection study
+_K. pneumoniae_ identified via routine diagnostic procedures from hospitalised patients in a tertiary care centre between February 2016 and February 2018 were collected. Isolates resistant to ceftriaxone were selected for sequencing.   
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/cef_res_infection_study_example.png" alt="Ceftriaxone resistant infection study flow diagram" width="70%">
+</p>
+
+#### CPE outbreak study
+In May 2019 there was a sudden increase in CPE infections in the ICU of a large tertiary care centre. Enhanced infection prevention and control procedures were activated from 18 May until 31 August when the outbreak was declared contained: rectal screening swabs were collected on patient admission and every 3 days thereafter, in addition to sink and drain screening swabs. All swabs were cultured on selective media and presumptive carbapenemase-producing _K. pneumoniae_ were sequenced alongside all carbapenem-resistant _K. pneumoniae_ identified from ICU patients via routine diagnostics procedures. 
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CPE_outbreak_study_example.png" alt="CPE outbreak study flow diagram" width="70%">
+</p>
+
+#### CR-hvKp study
+Carbapenem-resistant _K. pneumoniae_ were isolated from liver abscess patients as part of the Bacterial Infections among Diabetic Elderly Patients study, between 1 June 2018 and 30 June 2020. Strains carrying _K. pneumoniae_ carbapanemase genes were detected by PCR and string test was used to determine hypermucoidy. String test positive isolates harbouring _bla_<sub>KPC</sub> were subjected to whole genome sequencing.  
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CRhvKp_study_example.png" alt="CR-hvKp study flow diagram" width="70%">
+</p>
+
+#### Pig gut carriage study
+Veterinary researchers collected 100 faecal samples from each of six pig farms in June 2017. _K. pneumoniae_ were isolated by culture on SCIA media and subjected to whole genome sequencing as part of a One Health research project. 
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/pig_carriage_study_example.png" alt="Pig carriage study flow diagram" width="70%">
+</p>
+
+#### Water surveillance study
+_K. pneumoniae_ were isolated from fresh and wastewaters in a metropolitan centre as part of routine water surveillance conducted by the Environmental Protection Authority. Since 2021 all isolates have been stocked and 100 isolates have been randomly selected for sequencing each year. Sampling and sequencing is ongoing.
+
+<p align="center">
+<img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/water_surveillance_study_example.png" alt="Water surveillance study flow diagram" width="70%">
+</p>
+
 ## Queries and suggestions
 
 We welcome queries and suggestions from the community on any aspect of the scheme. In particular, please tell us if you think we have missed key data fields or options, or if the guidance is unclear. You can contact us via the [issue tracker](https://github.com/klebgenomics/Klebsiella-genome-metadata/issues).
