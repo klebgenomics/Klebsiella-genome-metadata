@@ -112,4 +112,4 @@ We welcome queries and suggestions from the community on any aspect of the schem
 
 ## License
 
-These resources are freely available for reuse and adapatation under GNU public license v3.0. We encourage the development of similar schemes for other organisms.
+These resources are freely available for reuse and adapatation under [GNU general public license v3](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/LICENSE). We encourage the development of similar schemes for other organisms.
