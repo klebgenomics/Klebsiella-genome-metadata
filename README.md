@@ -1,8 +1,12 @@
 # Klebsiella-genome-metadata
 
-Klebsiella genome metadata collection schema plus guidance, examples and collection template.
+_Klebsiella_ genome metadata collection schema plus guidance, examples and collection template.
 
-These resources support a community-driven data curation effort to facilitate the use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The resources are freely available for reuse and adapatation under open access licence, and we encourage the development of similar schemes for other organisms.
+These resources support a community-driven data curation effort to facilitate the use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The resources are freely available for reuse and adapatation under open access licence, and we encourage the development of similar schemes for other organisms.
+
+The scheme includes two types of data fields:
+**1. Isolate meta-data** fields capture information about the individual KpSC isolates and their associated genome sequences, as well as the sample sources and/or hosts from which the isolates were collected.
+**2. Purpose of sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections and to make descisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
 
 
 ## Isolate metadata
