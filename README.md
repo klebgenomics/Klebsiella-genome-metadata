@@ -2,14 +2,26 @@
 
 _Klebsiella_ genome metadata collection schema plus guidance, examples and collection template.
 
-These resources support a community-driven data curation effort to facilitate the use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The resources are freely available for reuse and adapatation under open access licence, and we encourage the development of similar schemes for other organisms.
+These resources support a community-driven data curation effort to facilitate the use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publicaly available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes.
 
 The scheme includes two types of data fields:  
 **1. Isolate meta-data** fields capture information about the individual KpSC isolates and their associated genome sequences, as well as the sample sources and/or hosts from which the isolates were collected.  
 **2. Purpose of sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections and to make descisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
 
+The data submission template is available here.
 
-## Isolate metadata
+We welcome your queries and suggestions- please submit these via the github [issue tracker](https://github.com/klebgenomics/Klebsiella-genome-metadata/issues).  
+
+The resources are freely available for reuse and adapatation under open access licence, and we encourage the development of similar schemes for other organisms.
+
+## Data submission
+
+TBC. 
+
+The data submission template is available here. Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data.  
+
+
+## Isolate metadata fields
 
 Data entries describe individual bacterial isolates and their associated sequence data. Please complete one row per isolate.  
 
