@@ -7,7 +7,10 @@ These resources support a community-driven data curation effort to facilitate th
 
 ## Isolate metadata
 
-Data entries describe individual bacterial isolates. 
+Data entries describe individual bacterial isolates and their associated sequence data. Please complete one row per isolate.  
+
+Data fields and guidance are shown in the table below.  
+
 
 
 | Status                               | Variable                     | Guidance                                                                                                                                                                                                                                   | Value format                                                                                                                                                                  |
@@ -47,8 +50,23 @@ Data entries describe individual bacterial isolates.
 
 ## Purpose of sampling
 
-Data entries describe the purpose of sampling and the sampling strategy for the collection from which the isolate is derived. 
+Data entries describe the purpose of sampling and the sampling strategy for the collection from which the isolate is derived. Please complete one row per isolate.  
 
-### Definitions
+Data fields and guidance are summarised in the table. Definitions and detailed examples are shown below.  
+
+
+### Purpose of sampling definitions
+
+#### Routine diagnostics and / or infection control
+Samples collected through the **routine** and **ongoing** activities of clinical or veterinary microbiology laboratories for the purposes of **clinical diagnosis and/or infection control**. May include isolates confirmed as infecting agents and/or those considered as asymptomatic or environmental colonisers e.g. isolates identified from hospital sinks or patient screening swabs as part of routine infection prevention and control procedures.
+ 
+#### Routine surveillance
+Samples collected through the **routine** and **ongoing** activities of other laboratories (not clinical or veterinary microbiology laboratories) and/or collected **for purposes other than clinical diagnostics and infection control** e.g. laboratories processing samples from non-healthcare environmental sources or food products. 
+ 
+#### Outbreak investigation / outbreak-initiated surveillance
+Samples collected as part of a **response to a specific outbreak** e.g. within a hospital or other healthcare setting (human or veterinary). May include isolates confirmed as infecting agents and/or those considered as asymptomatic colonisers (e.g. from screening swabs) and/or those from environmental sources (e.g. hospital sinks, drains etc.)
+ 
+#### Research
+Samples collected for **specific research** purposes (excluding outbreak investigation / outbreak-initiated surveillance) that would **not have otherwise been collected** via routine diagnostics, infection control or surveillance activities as described above.
 
 ### Examples
