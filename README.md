@@ -1,5 +1,9 @@
 # Klebsiella-genome-metadata
-Klebsiella genome metadata collection schema plus guidance, examples and collection template
+
+Klebsiella genome metadata collection schema plus guidance, examples and collection template.
+
+These resources support a community-driven data curation effort to facilitate the use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The resources are freely available for reuse and adapatation under open access licence, and we encourage the development of similar schemes for other organisms.
+
 
 ## Isolate metadata
 
