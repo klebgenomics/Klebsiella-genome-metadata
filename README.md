@@ -8,7 +8,8 @@ The scheme includes two types of data fields:
 **1. Isolate meta-data** fields capture information about the individual KpSC isolates and their associated genome sequences, as well as the sample sources and/or hosts from which the isolates were collected.  
 **2. Purpose of sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections and to make descisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
 
-The data submission template is available here.
+## Contents
+
 
 We welcome your queries and suggestions- please submit these via the github [issue tracker](https://github.com/klebgenomics/Klebsiella-genome-metadata/issues).  
 
@@ -86,3 +87,7 @@ Samples collected as part of a **response to a specific outbreak** e.g. within a
 Samples collected for **specific research** purposes (excluding outbreak investigation / outbreak-initiated surveillance) that would **not have otherwise been collected** via routine diagnostics, infection control or surveillance activities as described above.
 
 ### Examples
+
+### Queries and suggestions
+
+We welcome queries and suggestions from the community on any aspect of the scheme. In particular, please tell us if you think we have missed key data fields or options, or if the guidance is unclear. You can contact us via the [issue tracker](https://github.com/klebgenomics/Klebsiella-genome-metadata/issues).
