@@ -2,8 +2,9 @@
 
 _Klebsiella_ genome metadata scheme, plus guidance, examples and submission template.  
   
-This is a community-driven data curation effort to facilitate use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publicaly available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes. Our goal is to collect information with broad utility to research focussed on KpSC, and that can be readily harmonised for easy and effective reuse.
-
+This is a community-driven data curation effort to facilitate use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publicaly available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes.
+  
+Our goal is to collect information with broad utility to research focussed on KpSC, and that can be readily harmonised for easy and effective reuse.
 The scheme includes two types of data fields:  
   
 **1. Isolate meta-data** fields capture information about the individual KpSC isolates and their associated genome sequences, as well as the sample sources and/or hosts from which the isolates were collected.  
