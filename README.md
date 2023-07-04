@@ -2,7 +2,7 @@
 
 _Klebsiella_ genome metadata scheme, plus guidance, examples and submission template.  
   
-This is a community-driven data curation effort to facilitate use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publicaly available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes.
+This is a community-driven data curation effort to facilitate use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publicaly available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes. Our goal is to collect information with broad utility to research focussed on KpSC, and that can be readily harmonised for easy and effective reuse.
 
 The scheme includes two types of data fields:  
   
@@ -25,6 +25,13 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 
 The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please DO NOT enter data directly into this version. Please MAKE A COPY to add your own data. Once completed email or share your copy to XXXXX. 
 
+The full list of data fields, value formats and options are shown in the tables below. 
+
+#### Fields with restricted vocabularies
+Some fields have restricted vocabularies and/or require selection from a list of predefined data values. In most cases the list of possible values can be accessed and searched via a drop-down list within the submission template (also shown in the tables below, marked 'Choose from list') and only values matching those in the list will be accepted. However, in a minority of cases the possible set of values is derived from an established ontology that is too large for inclusion within the submission template. These fields are marked as, 'Controlled vocabulary,' with a link to the appropriate ontology e.g. NCBI taxnomy database or MeSH disease ontology.
+
+#### Fields with a list of suggested values
+In some cases it is desirable to have a restricted vocabulary to support data harmonisation, but there are no appropriate predefined ontologies and too many foseable options to create a definitive list. In these cases, we provide a list of suggested values that we expect to capture the vast majorirty of scenarios, but also provide the option to enter alternative values via free text. These fields are marked in the tables below as, 'Choose common values from the list, or if none are appropriate, enter free text'. The submission template includes a drop-down list of the suggested values, but will allow other values to be entered (these free text entries will be marked with warnings).
 
 ## Isolate metadata fields
 
@@ -114,42 +121,42 @@ _K. pneumoniae_ were isolated from the blood of neonates via routine diagnostic 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/neonatal_sepsis_study_example.png" alt="Neonatal sepsis study flow diagram" width="70%">
 </p>
-
+  
 #### Ceftriaxone-resistant infection study
 _K. pneumoniae_ identified via routine diagnostic procedures from hospitalised patients in a tertiary care centre between February 2016 and February 2018 were collected. Isolates resistant to ceftriaxone were selected for sequencing.   
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/cef_res_infection_study_example.png" alt="Ceftriaxone resistant infection study flow diagram" width="70%">
 </p>
-
+  
 #### CPE outbreak study
 In May 2019 there was a sudden increase in CPE infections in the ICU of a large tertiary care centre. Enhanced infection prevention and control procedures were activated from 18 May until 31 August when the outbreak was declared contained: rectal screening swabs were collected on patient admission and every 3 days thereafter, in addition to sink and drain screening swabs. All swabs were cultured on selective media and presumptive carbapenemase-producing _K. pneumoniae_ were sequenced alongside all carbapenem-resistant _K. pneumoniae_ identified from ICU patients via routine diagnostics procedures. 
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CPE_outbreak_study_example.png" alt="CPE outbreak study flow diagram" width="70%">
 </p>
-
+  
 #### CR-hvKp study
 Carbapenem-resistant _K. pneumoniae_ were isolated from liver abscess patients as part of the Bacterial Infections among Diabetic Elderly Patients study, between 1 June 2018 and 30 June 2020. Strains carrying _K. pneumoniae_ carbapanemase genes were detected by PCR and string test was used to determine hypermucoidy. String test positive isolates harbouring _bla_<sub>KPC</sub> were subjected to whole genome sequencing.  
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CRhvKp_study_example.png" alt="CR-hvKp study flow diagram" width="70%">
 </p>
-
+  
 #### Pig gut carriage study
 Veterinary researchers collected 100 faecal samples from each of six pig farms in June 2017. _K. pneumoniae_ were isolated by culture on SCIA media and subjected to whole genome sequencing as part of a One Health research project. 
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/pig_carriage_study_example.png" alt="Pig carriage study flow diagram" width="70%">
 </p>
-
+  
 #### Water surveillance study
 _K. pneumoniae_ were isolated from fresh and wastewaters in a metropolitan centre as part of routine water surveillance conducted by the Environmental Protection Authority. Since 2021 all isolates have been stocked and 100 isolates have been randomly selected for sequencing each year. Sampling and sequencing is ongoing.
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/water_surveillance_study_example.png" alt="Water surveillance study flow diagram" width="70%">
 </p>
-
+  
 ## Queries and suggestions
 
 We welcome queries and suggestions from the community on any aspect of the scheme. In particular, please tell us if you think we have missed key data fields or options, or if the guidance is unclear. You can contact us via the [issue tracker](https://github.com/klebgenomics/Klebsiella-genome-metadata/issues).
