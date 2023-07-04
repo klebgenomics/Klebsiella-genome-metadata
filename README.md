@@ -136,7 +136,7 @@ _K. pneumoniae_ identified via routine diagnostic procedures from hospitalised p
 </p>
   
 #### CPE outbreak study
-In May 2019 there was a sudden increase in CPE infections in the ICU of a large tertiary care centre. Enhanced infection prevention and control procedures were activated from 18 May until 31 August when the outbreak was declared contained: rectal screening swabs were collected on patient admission and every 3 days thereafter, in addition to sink and drain screening swabs. All swabs were cultured on selective media and presumptive carbapenemase-producing _K. pneumoniae_ were sequenced alongside all carbapenem-resistant _K. pneumoniae_ identified from ICU patients via routine diagnostics procedures. 
+In May 2019 there was a sudden increase in CPE infections in the ICU of a large tertiary care centre. Enhanced infection prevention and control procedures were activated from 18 May until 31 August when the outbreak was declared contained: rectal screening swabs were collected on patient admission and every 3 days thereafter, in addition to sink and drain screening swabs. All swabs were cultured on selective media and presumptive carbapenem-resistant _K. pneumoniae_ were sequenced alongside all carbapenem-resistant _K. pneumoniae_ identified from ICU patients via routine diagnostics procedures. 
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CPE_outbreak_study_example.png" alt="CPE outbreak study flow diagram" width="70%">
@@ -150,11 +150,14 @@ Carbapenem-resistant _K. pneumoniae_ were isolated from liver abscess patients a
 </p>
   
 #### Pig gut carriage study
-Veterinary researchers collected 100 faecal samples from each of six pig farms in June 2017. _K. pneumoniae_ were isolated by culture on SCIA media and subjected to whole genome sequencing as part of a One Health research project. 
+Veterinary researchers collected 100 faecal samples from each of six pig farms in June 2017. _K. pneumoniae_ were isolated by culture on SCAI media and subjected to whole genome sequencing as part of a One Health research project. 
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/pig_carriage_study_example.png" alt="Pig carriage study flow diagram" width="70%">
 </p>
+
+(Note that the specific hosts, ie pigs, should be indicated in the isolate metadata field 'host', rather than in the sampling field)
+
   
 #### Water surveillance study
 _K. pneumoniae_ were isolated from fresh and wastewaters in a metropolitan centre as part of routine water surveillance conducted by the Environmental Protection Authority. Since 2021 all isolates have been stocked and 100 isolates have been randomly selected for sequencing each year. Sampling and sequencing is ongoing.
