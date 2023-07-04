@@ -117,7 +117,7 @@ Samples collected as part of a **response to a specific outbreak** e.g. within a
 #### Research
 Samples collected for **specific research** purposes (excluding outbreak investigation / outbreak-initiated surveillance) that would **not have otherwise been collected** via routine diagnostics, infection control or surveillance activities as described above.
 
-### Examples
+### Examples of how to describe study designs using the sampling fields
 
 Below we describe various hypothetical study designs and show how the **sampling** fields would be populated for each.
 
