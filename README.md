@@ -143,7 +143,7 @@ In May 2019 there was a sudden increase in CPE infections in the ICU of a large 
 </p>
   
 #### CR-hvKp study
-Carbapenem-resistant _K. pneumoniae_ were isolated from liver abscess patients as part of the Bacterial Infections among Diabetic Elderly Patients study, between 1 June 2018 and 30 June 2020. Strains carrying _K. pneumoniae_ carbapanemase genes were detected by PCR and string test was used to determine hypermucoidy. String test positive isolates harbouring _bla_<sub>KPC</sub> were subjected to whole genome sequencing.  
+Carbapenem-resistant _K. pneumoniae_ were isolated from liver abscess patients as part of a reserach study focussed on elderly diabetic patients, between 1 June 2018 and 30 June 2020. Strains carrying _K. pneumoniae_ carbapanemase genes were detected by PCR and string test was used to determine hypermucoidy. String test positive isolates harbouring _bla_<sub>KPC</sub> were subjected to whole genome sequencing.  
 
 <p align="center">
 <img src="https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/images/CRhvKp_study_example.png" alt="CR-hvKp study flow diagram" width="70%">
