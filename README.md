@@ -28,7 +28,6 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 ## Data submission
 
 The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please note this is a template and you cannot enter data directly into it. Please MAKE A COPY to add your own data. Once completed, email or share your copy to klebsiella.genome.metadata@gmail.com.
-. 
 
 The full list of data fields, value formats and options are shown in the tables below. 
 
