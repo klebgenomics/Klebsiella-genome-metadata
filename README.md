@@ -18,8 +18,8 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 [1. Data submission](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission)  
 [2. Isolate metadata fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#isolate-metadata-fields)  
 [3. Sampling fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#sampling-fields)<BR>
-  [- Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
-  [- Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
+  [i. Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
+  [ii. Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
 [4. Queries and suggestions](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#queries-and-suggestions)  
 [5. License](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#license)  
 
@@ -27,7 +27,7 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 
 ## Data submission
 
-The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please note this is a template and you cannot enter data directly into it. Please MAKE A COPY to add your own data. Once completed, email or share your copy to klebsiella.genome.metadata@gmail.com.
+The data submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Please **MAKE A COPY** to add your own data. You cannot enter data directly into the master copy of the template. Once completed, email or share your copy to klebsiella.genome.metadata@gmail.com.
 
 The full list of data fields, value formats and options are shown in the tables below. 
 
@@ -43,7 +43,7 @@ These data describe individual bacterial isolates and their associated sequence 
 
 Variable fields, and guidance for completing them, are shown in the table below.
 
-For text fields, please do  not enter 'Unknown' or 'missing' etc, just leave the field blank if you don't have any data to input.
+For text fields, please **DO NOT** enter 'Unknown' or 'missing' etc, just leave the field blank if you don't have any data to input.
 
 
 | Status                               | Variable                     | Definition; Guidance                                                                                                                                                                                                                                   | Value format                                                                                                                                                                  |
