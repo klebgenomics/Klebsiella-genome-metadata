@@ -18,8 +18,8 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 [1. Data submission](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission)  
 [2. Isolate metadata fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#isolate-metadata-fields)  
 [3. Sampling fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#sampling-fields)<BR>
-  [i. Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
-  [ii. Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
+    [i. Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
+    [ii. Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
 [4. Queries and suggestions](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#queries-and-suggestions)  
 [5. License](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#license)  
 
