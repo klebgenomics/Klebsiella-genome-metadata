@@ -1,5 +1,6 @@
 # Klebsiella-genome-metadata
 
+
 _Klebsiella_ genome metadata scheme, plus guidance, examples and submission template.  
   
 This is a community-driven data curation effort to facilitate use and reuse of public genome collections for maximum knowledge gain. These efforts are focussed on _Klebsiella pneumoniae_ and closely related organisms in the _K. pneumoniae_ Species Complex (KpSC) and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team. The data willl be collated and made publically available via this repository and the [PathogenWatch](https://pathogen.watch/) website, which hosts public KpSC genome collections and reports associated genotypes.
