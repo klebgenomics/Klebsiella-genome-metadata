@@ -11,11 +11,13 @@ Our goal is to collect information that has broad utility for research focused o
 
 
 
-Our scheme includes data fields divided into two sections:  
+Our scheme includes data fields divided into three sections:  
   
 **1. Isolate metadata** fields capture information about the individual KpSC genomes and their associated isolates, as well as the sample sources and/or hosts from which the isolates were collected.
   
 **2. Sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections, and to make decisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
+
+**3. Citation information** fields capture information regarding to genomes that are included in a study that has not been published yet or is in preprint. This allows direct attribution for multiple authors for each project. 
 
 The submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Detailed instructions and guidance for data submission can be found below. 
 
@@ -25,8 +27,9 @@ The submission template is available [here](https://docs.google.com/spreadsheets
 [3. Sampling fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#sampling-fields)<BR>
     [i. Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
     [ii. Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
-[4. Queries and suggestions](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#queries-and-suggestions)  
-[5. License](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#license)  
+[4. Citation information fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#citation-information)<BR>
+[5. Queries and suggestions](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#queries-and-suggestions)  
+[6. License](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#license)  
 
 
 
@@ -108,7 +111,21 @@ Variable fields, and guidance for completing them, are summarised in the table b
 | RECOMMENDED                                                                   | Sampling period start          | Start date for the sampling period                                                                    | Indicate when the sample collection began (YYYY, or YYYY-MM or YYYY-MM-DD). This information is useful for understanding the temporal coverage of data to inform trend analysis.                                                                                                                                                                                                                                                                                                                                                                                                 | {ISO format}                                                                                                                                                                                                                                                                                                                                                                                                     |
 | RECOMMENDED                                                                   | Sampling period end            | End date for the sampling period                                                                      | Indicate when the sample collection ended (YYYY, or YYYY-MM or YYYY-MM-DD). This information is useful for understanding the temporal coverage of data to inform trend analysis. If collection and sequencing are on-going, leave this field blank.                                                                                                                                                                                                                                                                                                                                         | {ISO format}                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-  
+
+
+## Citation Information
+
+These data fields ask for the title of the study and authors for genomes that are not yet published with a PMID or genomes that are currently only in preprint with a DOI. Please complete one row per isolate. 
+
+Variable fields, and guidance for completing them, are summarised in the table below.
+
+
+| Status                                                                        | Variable                       | Definition                                                                                            | Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Value format                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------------|--------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RECOMMENDED                             | Study title                  | Title of the study for this isolate     | For isolates that are part of a study that has not yet been published (no PMID) or isolates that are part of a study that is in preprint (with DOI), please provide the title of the study.                                                                                                                                                                                                                                                                        | {text}     
+| REQUIRED if Study title provided                             | Author list           | A list of all contributing authors for this study    | For isolates that are part of a study that has not yet been published (no PMID) or isolates that are part of a study that is currently in preprint (with DOI), please list all contributing authors.                                                                                                                                               | {text}                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                       
+
+
 
 ### Term definitions for purpose-of-sampling
 
