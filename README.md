@@ -17,7 +17,7 @@ Our scheme includes data fields divided into three sections:
   
 **2. Sampling** fields capture information about how and why isolates were collected and/or chosen for sequencing. These data are essential to understand the underlying biases in genome collections, and to make decisions about the inclusion or exclusion of isolates for comparative and aggregate analyses.
 
-**3. Citation information** fields capture information regarding to genomes that are included in a study that has not been published yet or is in preprint. This allows direct attribution for multiple authors for each project. 
+**3. Citation information** fields capture information regarding genomes that are part of a study that has not yet been published or is in preprint. This allows direct attribution for multiple authors for each project. 
 
 The submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Detailed instructions and guidance for data submission can be found below. 
 
