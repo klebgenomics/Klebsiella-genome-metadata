@@ -30,7 +30,7 @@ The submission template is available [here](https://docs.google.com/spreadsheets
     [i. Term definitions for 'purpose of sampling'](#term-definitions-for-purpose-of-sampling)<BR>
     [ii. Examples of how to describe study designs using the sampling fields](#examples-of-how-to-describe-study-designs-using-the-sampling-fields)<BR>
 [4. Citation information fields](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#citation-information)<BR>
-[5. PHA4GE Microbial Data Sharing Accord - Clause Waiver](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#PHA4GE Microbial Data Sharing Accord)<BR>
+[5. PHA4GE Microbial Data Sharing Accord - Clause Waiver](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#PHA4GE-microbial-data-sharing-accord-clause-waiver)<BR>
 [6. Queries and suggestions](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#queries-and-suggestions)  
 [7. License](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#license)  
 
