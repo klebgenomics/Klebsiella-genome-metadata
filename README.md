@@ -50,7 +50,7 @@ In some cases it is desirable to have a restricted vocabulary to support data ha
 
 ## Isolate metadata
 
-These data describe individual genome sequences and the bacterial isolates from which they were derived. Please complete one row per seqeunce (i.e. one set of seqeunce read data and/or a _de novo_ assembly). 
+These data describe individual genome sequences and the bacterial isolates from which they were derived. Please complete one row per sequence (i.e. one set of sequence read data and/or a _de novo_ assembly). 
 
 Variable fields, and guidance for completing them, are shown in the table below.
 
