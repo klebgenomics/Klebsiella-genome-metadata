@@ -21,7 +21,9 @@ Our scheme includes data fields divided into four sections:
 
 **4. PHA4GE Microbial Data Sharing Accord - Clause Waiver** fields indicate whether the data contributor agrees to waive Clause 2 and/or Clause 7 of the PHA4GE Microbial Data Sharing Accord on a per-isolate basis.
 
-The submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Detailed instructions and guidance for data submissions can be found below. 
+The submission template is available [here](https://docs.google.com/spreadsheets/d/1B1G6akgdNItXsk85QsX3TZvumM1ROZZfYnt-h3FzUoA/edit?usp=sharing). Detailed instructions and guidance for data submissions can be found below.
+
+**PLEASE NOTE: Data submitters must only send anonymised and de-identified data; and should not send any human data (age, sex, clinical information etc) for which they do not have ethical approval to release into the public domain.** If the requisite approvals to share certain information is lacking or sharing is prohibited, the relevant data fields should be marked as ‘Restricted access’ or ‘Not available’ as indicated in the template instructions, and the fields that are able to be shared publicly should be completed.  
 
 ## Contents
 [1. Data submission](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission)  
